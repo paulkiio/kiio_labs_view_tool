@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KiioLabsViewTool::Renderer.copyright 'Kiio Labs', 'All rights reserved'
+```
 
 ## Development
 
